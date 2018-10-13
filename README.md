@@ -1,4 +1,2 @@
 # CancerModel
-Main Files:
-1)main.py
-2)optimize.py
+I simulated the growth of cancer cells to understand drug-resistant phenotype evolution to propose individualized and optimized treatment strategies.
